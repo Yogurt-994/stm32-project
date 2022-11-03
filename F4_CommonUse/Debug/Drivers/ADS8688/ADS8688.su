@@ -1,0 +1,15 @@
+../Drivers/ADS8688/ADS8688.c:42:6:ADS8688_SPI_WB	24	static
+../Drivers/ADS8688/ADS8688.c:63:9:ADS8688_SPI_RB	16	static
+../Drivers/ADS8688/ADS8688.c:85:6:ADS8688_WriteCommandReg	16	static
+../Drivers/ADS8688/ADS8688.c:94:6:ADS8688_Write_Program_Register	16	static
+../Drivers/ADS8688/ADS8688.c:103:4:ADS8688_READ_Program_Register	24	static
+../Drivers/ADS8688/ADS8688.c:115:7:Enter_RESET_MODE	8	static
+../Drivers/ADS8688/ADS8688.c:120:6:AUTO_RST_Mode	8	static
+../Drivers/ADS8688/ADS8688.c:125:6:MAN_Ch_n_Mode	16	static
+../Drivers/ADS8688/ADS8688.c:130:6:Set_CH_Range_Select	16	static
+../Drivers/ADS8688/ADS8688.c:135:6:Get_AUTO_RST_Mode_Data	24	static
+../Drivers/ADS8688/ADS8688.c:153:6:ADS8688_Init_Single	8	static
+../Drivers/ADS8688/ADS8688.c:181:7:ADS8688_Init_Mult	8	static
+../Drivers/ADS8688/ADS8688.c:229:10:Get_MAN_Ch_n_Mode_Data	16	static
+../Drivers/ADS8688/ADS8688.c:240:5:get_ADS_ch1	8	static
+../Drivers/ADS8688/ADS8688.c:246:6:get_ADS_allch	16	static
