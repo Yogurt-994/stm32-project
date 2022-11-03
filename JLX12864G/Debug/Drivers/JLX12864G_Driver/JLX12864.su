@@ -1,0 +1,16 @@
+JLX12864.c:10:6:transfer_command_lcd	24	static
+JLX12864.c:28:6:transfer_data_lcd	24	static
+JLX12864.c:44:6:initial_lcd	8	static
+JLX12864.c:68:6:lcd_address	16	static
+JLX12864.c:76:6:clear_screen	16	static
+JLX12864.c:91:6:display_128x64	24	static
+JLX12864.c:105:6:display_graphic_16x16	24	static
+JLX12864.c:120:6:display_graphic_8x16	24	static
+JLX12864.c:134:6:display_graphic_5x8	24	static
+JLX12864.c:145:6:send_command_to_ROM	24	static
+JLX12864.c:160:7:get_data_from_ROM	16	static
+JLX12864.c:180:6:get_and_write_16x16	24	static
+JLX12864.c:202:6:get_and_write_8x16	24	static
+JLX12864.c:222:6:get_and_write_5x8	24	static
+JLX12864.c:240:6:display_GB2312_string	24	static
+JLX12864.c:278:6:display_string_5x8	24	static
