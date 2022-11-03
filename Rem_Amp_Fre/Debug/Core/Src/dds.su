@@ -1,0 +1,6 @@
+dds.c:488:6:DAC_Init	16	static
+dds.c:498:6:DMA1_Stream_Handler	16408	static
+dds.c:545:6:DMA1_Stream5_IRQHandler	8	static
+dds.c:553:6:sweepFrequencyOn	16	static
+dds.c:564:6:sweepFrequencyOff	8	static
+dds.c:574:6:HAL_TIM_PeriodElapsedCallback	16	static
