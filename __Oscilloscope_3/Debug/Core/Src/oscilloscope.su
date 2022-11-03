@@ -1,0 +1,13 @@
+../Core/Src/oscilloscope.c:24:6:float2char	40	static
+../Core/Src/oscilloscope.c:59:8:FloatToBytes	24	static
+../Core/Src/oscilloscope.c:69:6:myInit	8	static
+../Core/Src/oscilloscope.c:81:6:sysInit	4	static
+../Core/Src/oscilloscope.c:116:6:oscilloscopeFunction	8	static
+../Core/Src/oscilloscope.c:125:6:autoSet	16	static
+../Core/Src/oscilloscope.c:235:6:waveDataDisplay	40	static
+../Core/Src/oscilloscope.c:337:6:waveAttributeDisplay	80	static
+../Core/Src/oscilloscope.c:393:6:freAndSkewingDataDisplay	16	static
+../Core/Src/oscilloscope.c:433:6:triggerModeAndDisplay	16	static
+../Core/Src/oscilloscope.c:684:6:waveRecognition	8	static
+../Core/Src/oscilloscope.c:724:6:HAL_TIM_IC_CaptureCallback	16	static
+../Core/Src/oscilloscope.c:752:6:HAL_TIM_PeriodElapsedCallback	32	static
