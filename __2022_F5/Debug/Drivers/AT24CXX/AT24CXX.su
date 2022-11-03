@@ -1,0 +1,4 @@
+../Drivers/AT24CXX/AT24CXX.c:15:9:AT24CXX_ReadOneByte	40	static
+../Drivers/AT24CXX/AT24CXX.c:30:19:AT24CXX_WriteOneByte	40	static
+../Drivers/AT24CXX/AT24CXX.c:51:19:AT24CXX_Read	32	static
+../Drivers/AT24CXX/AT24CXX.c:66:19:AT24CXX_Write	40	static

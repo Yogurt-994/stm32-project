@@ -1,0 +1,5 @@
+../Drivers/STM32F4xx_VisualTFT/hmi_user_uart.c:42:6:TFT_Init	8	static
+../Drivers/STM32F4xx_VisualTFT/hmi_user_uart.c:47:6:Param_Update	16	static
+../Drivers/STM32F4xx_VisualTFT/hmi_user_uart.c:57:6:USART2_IRQHandler	8	static
+../Drivers/STM32F4xx_VisualTFT/hmi_user_uart.c:62:6:HAL_UART_RxCpltCallback	24	static
+../Drivers/STM32F4xx_VisualTFT/hmi_user_uart.c:79:7:SendChar	16	static

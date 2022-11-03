@@ -1,0 +1,9 @@
+<Resource>
+    <pages>
+        <page name="Screen0" id="0" />
+    </pages>
+    <images>
+        <image id="0" url="d:\cubeide\workspace\__2022_f\__2022_f\Images\电赛.png" effect_width="167" effect_height="95" />
+    </images>
+    <waves />
+</Resource>

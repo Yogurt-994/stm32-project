@@ -1,0 +1,6 @@
+../Drivers/DAC8563/DAC8563.c:12:6:dac_delay_us	16	static
+../Drivers/DAC8563/DAC8563.c:17:6:DAC8563_WRITE	24	static
+../Drivers/DAC8563/DAC8563.c:89:6:DAC8563_Init	8	static
+../Drivers/DAC8563/DAC8563.c:103:6:DAC_OutA	16	static
+../Drivers/DAC8563/DAC8563.c:110:6:DAC_OutB	16	static
+../Drivers/DAC8563/DAC8563.c:117:6:DAC_OutAB	16	static

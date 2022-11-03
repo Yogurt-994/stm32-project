@@ -1,0 +1,8 @@
+../Drivers/ADS1256/ADS1256.c:9:6:ADS1256_Init	8	static
+../Drivers/ADS1256/ADS1256.c:60:6:ADS1256_Send8Bit	24	static
+../Drivers/ADS1256/ADS1256.c:90:9:ADS1256_Recive8Bit	16	static
+../Drivers/ADS1256/ADS1256.c:124:6:ADS1256_WriteReg	16	static
+../Drivers/ADS1256/ADS1256.c:140:9:ADS1256_ReadReg	24	static
+../Drivers/ADS1256/ADS1256.c:160:6:ADS1256_WriteCmd	16	static
+../Drivers/ADS1256/ADS1256.c:179:6:ADS1256_CfgADC	24	static
+../Drivers/ADS1256/ADS1256.c:272:10:ADS1256_GetAdc	24	static
