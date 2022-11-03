@@ -1,0 +1,13 @@
+ESP8266.c:19:6:wifiInit	4	static
+ESP8266.c:40:6:print	2076	static
+ESP8266.c:54:6:RxCallback	32	static
+ESP8266.c:101:6:setTimeout	16	static
+ESP8266.c:112:6:isTimeout	4	static
+ESP8266.c:125:6:sendNoAck	16	static
+ESP8266.c:135:8:send	24	static
+ESP8266.c:154:8:sendCmd	24	static
+ESP8266.c:182:6:sendMessage	24	static
+ESP8266.c:192:6:quitTrans	8	static
+ESP8266.c:206:6:delay	16	static
+ESP8266.c:215:6:isResponded	32	static
+ESP8266.c:235:8:init	16	static
