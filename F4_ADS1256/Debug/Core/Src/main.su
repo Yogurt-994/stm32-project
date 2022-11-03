@@ -1,0 +1,6 @@
+../Core/Src/main.c:70:6:print	2076	static
+../Core/Src/main.c:80:6:Get_AD_Value	8	static
+../Core/Src/main.c:95:5:main	8	static
+../Core/Src/main.c:151:6:SystemClock_Config	88	static
+../Core/Src/main.c:193:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:208:6:Error_Handler	4	static,ignoring_inline_asm
