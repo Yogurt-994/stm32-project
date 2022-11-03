@@ -1,0 +1,27 @@
+--cpu Cortex-M3
+"a5\startup_stm32f103xe.o"
+"a5\main.o"
+"a5\delay.o"
+"a5\sys.o"
+"a5\gpio.o"
+"a5\stm32f1xx_it.o"
+"a5\stm32f1xx_hal_msp.o"
+"a5\stm32f1xx_hal_gpio_ex.o"
+"a5\stm32f1xx_hal_tim.o"
+"a5\stm32f1xx_hal_tim_ex.o"
+"a5\stm32f1xx_hal.o"
+"a5\stm32f1xx_hal_rcc.o"
+"a5\stm32f1xx_hal_rcc_ex.o"
+"a5\stm32f1xx_hal_gpio.o"
+"a5\stm32f1xx_hal_dma.o"
+"a5\stm32f1xx_hal_cortex.o"
+"a5\stm32f1xx_hal_pwr.o"
+"a5\stm32f1xx_hal_flash.o"
+"a5\stm32f1xx_hal_flash_ex.o"
+"a5\stm32f1xx_hal_exti.o"
+"a5\system_stm32f1xx.o"
+"a5\lcd.o"
+--library_type=microlib --strict --scatter "A5\A5.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "A5.map" -o A5\A5.axf

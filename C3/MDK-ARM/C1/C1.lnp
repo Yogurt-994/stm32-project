@@ -1,0 +1,27 @@
+--cpu Cortex-M3
+"c1\startup_stm32f103xe.o"
+"c1\delay.o"
+"c1\sys.o"
+"c1\main.o"
+"c1\gpio.o"
+"c1\tim.o"
+"c1\stm32f1xx_it.o"
+"c1\stm32f1xx_hal_msp.o"
+"c1\stm32f1xx_hal_gpio_ex.o"
+"c1\stm32f1xx_hal_tim.o"
+"c1\stm32f1xx_hal_tim_ex.o"
+"c1\stm32f1xx_hal.o"
+"c1\stm32f1xx_hal_rcc.o"
+"c1\stm32f1xx_hal_rcc_ex.o"
+"c1\stm32f1xx_hal_gpio.o"
+"c1\stm32f1xx_hal_dma.o"
+"c1\stm32f1xx_hal_cortex.o"
+"c1\stm32f1xx_hal_pwr.o"
+"c1\stm32f1xx_hal_flash.o"
+"c1\stm32f1xx_hal_flash_ex.o"
+"c1\stm32f1xx_hal_exti.o"
+"c1\system_stm32f1xx.o"
+--strict --scatter "C1\C1.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "C1.map" -o C1\C1.axf
