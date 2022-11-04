@@ -1,7 +1,0 @@
-../Drivers/ADS8688_SPI/ADS8688_SPI.c:14:9:ADS8688_Init	32	static
-../Drivers/ADS8688_SPI/ADS8688_SPI.c:57:9:ADS8688_CH1_Init_Mult	32	static
-../Drivers/ADS8688_SPI/ADS8688_SPI.c:98:9:ADS8688_CH2_Init_Mult	32	static
-../Drivers/ADS8688_SPI/ADS8688_SPI.c:140:19:ADS_Prog_Read	40	static
-../Drivers/ADS8688_SPI/ADS8688_SPI.c:155:19:ADS_Prog_Write	40	static
-../Drivers/ADS8688_SPI/ADS8688_SPI.c:169:19:ADS_Cmd_Write	40	static
-../Drivers/ADS8688_SPI/ADS8688_SPI.c:183:19:ADS_Read_All_Raw	32	static

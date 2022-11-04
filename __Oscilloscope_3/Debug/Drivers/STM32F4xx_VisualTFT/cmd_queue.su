@@ -1,5 +1,0 @@
-../Drivers/STM32F4xx_VisualTFT/cmd_queue.c:17:6:queue_reset	4	static
-../Drivers/STM32F4xx_VisualTFT/cmd_queue.c:23:6:queue_push	24	static
-../Drivers/STM32F4xx_VisualTFT/cmd_queue.c:34:13:queue_pop	16	static
-../Drivers/STM32F4xx_VisualTFT/cmd_queue.c:44:14:queue_size	4	static
-../Drivers/STM32F4xx_VisualTFT/cmd_queue.c:49:7:queue_find_cmd	24	static

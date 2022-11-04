@@ -1,4 +1,0 @@
-../Core/Src/base.c:10:6:delay_init	16	static
-../Core/Src/base.c:16:6:delay_ns	16	static
-../Core/Src/base.c:23:6:delay_us	40	static
-../Core/Src/base.c:45:6:delay_ms	24	static
